@@ -1,0 +1,31 @@
+body{
+    background-image: linear-gradient(lavender, lightblue);
+}
+
+.heading{
+    font-size: 40px;
+    font-family: sunny spells;
+}
+p{
+    font-family: Arial;
+}
+
+label{
+    font-size: 30;
+    font-family: arial;
+}
+#camera, #result{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed rgb(7, 2, 70);
+}
+#result_object_name{
+    font-family: sunny spells;
+    color: navy;
+    font-size: 30;
+}
+#result_object_accuracy{
+    font-family: sunny spells;
+    color: navy;
+    font-size: 30;
+}
